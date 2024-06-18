@@ -1,4 +1,3 @@
-#JIJALRS.github.io
 ## Data Science Enthusiast
 
 #### Technical Skills: Python,R,SPSS,Tableau and SQL
