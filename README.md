@@ -1,7 +1,5 @@
-![JIJAL](/assets/img/9630.jpeg)
 #JIJALRS.github.io
-
-# Data Science Enthusiast
+## Data Science Enthusiast
 
 #### Technical Skills: Python,R,SPSS,Tableau and SQL
 
@@ -13,5 +11,5 @@
 * GATE Score of 206 in Data Science and Artificial Intelligence
 
 ## Projects
-### AGRICULTURE YIELD PREDICTION
+#### AGRICULTURE YIELD PREDICTION
 *[PREDICTION WEB PAGE](https://agriculture-project.onrender.com)
