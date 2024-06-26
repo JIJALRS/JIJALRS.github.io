@@ -18,5 +18,7 @@ Developed a Random Forest Regression model for predicting the crop production in
 [Tableau Visualizations](https://public.tableau.com/views/AgricultureDatasetVisualizations/IndiaMap?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## CERTIFICATES
-
-#### GATE [SCORE CARD](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
+#### GATE SCORE CARD [*](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
+#### Intermediate SQL for Data Scientists [*] (https://drive.google.com/file/d/1UWqWwc8e8Dsfqu_1mfZWP5R0fcztXRrh/view?usp=sharing)
+#### SQL Essential Training [*] (https://drive.google.com/file/d/1ZXBSMiu4wUdDlawmLrzqHUlQsHVJeUUV/view?usp=sharing)
+#### Excel Statistics Essential[*](https://drive.google.com/file/d/1tqRSjukiuX_XmONmsydhwSyi3XJBMawU/view?usp=sharing)
