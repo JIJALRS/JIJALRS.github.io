@@ -17,7 +17,6 @@ Developed a Random Forest Regression model for predicting the crop production in
 [PREDICTION WEB PAGE](https://agriculture-project.onrender.com)
 [Tableau Visualizations](https://public.tableau.com/views/AgricultureDatasetVisualizations/IndiaMap?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-
-##CERTIFICATES
+## CERTIFICATES
 
 #### GATE [SCORE CARD](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
