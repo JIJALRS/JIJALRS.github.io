@@ -11,7 +11,7 @@
 * GATE Score of 206 in Data Science and Artificial Intelligence
 
 ## PROJECTS
-#### AGRICULTURE YIELD PREDICTION
+#### Agriculture Yield Prediction
 Developed a Random Forest Regression model for predicting the crop production in INDIA based on the crop production from year 1997 to 2015.
 [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/a1a5f4ed284d3f94963afb6ed1bc5f1a9da2f871/Agriculture_Prediction.ipynb)
 [PREDICTION WEB PAGE](https://agriculture-project.onrender.com)
