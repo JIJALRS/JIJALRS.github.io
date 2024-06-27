@@ -1,7 +1,7 @@
 ## JIJAL R S
 ### Data Science Enthusiast
 
-#### Technical Skills: Python,R-Programming,SPSS and SQL
+#### Technical Skills: Python,R-Programming,SPSS,Tableau and SQL
 
 ## EDUCATION
 
@@ -16,6 +16,9 @@ Developed a Random Forest Regression model for predicting the crop production in
 [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/a1a5f4ed284d3f94963afb6ed1bc5f1a9da2f871/Agriculture_Prediction.ipynb)
 [PREDICTION WEB PAGE](https://agriculture-project.onrender.com)
 [Tableau Visualizations](https://public.tableau.com/views/AgricultureDatasetVisualizations/IndiaMap?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+#### Employee Attrition Prediction
+Created a classification model to predict employee attrition [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/698615a8bc9971c7260681928c6eadb6c4249af6/Employee%20Attrition%20Prediction.ipynb) 
 
 ## CERTIFICATES
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
