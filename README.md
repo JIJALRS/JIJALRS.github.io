@@ -17,6 +17,11 @@ Developed a Random Forest Regression model for predicting the crop production in
 [PREDICTION WEB PAGE](https://agriculture-project.onrender.com)
 [Tableau Visualizations](https://public.tableau.com/views/AgricultureDatasetVisualizations/IndiaMap?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+
+#### Predict Loan Eligibility for Dream Housing Finance company
+Dream Housing Finance company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers.
+
+
 #### Employee Attrition Prediction
 Created a classification model to predict employee attrition [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/698615a8bc9971c7260681928c6eadb6c4249af6/Employee%20Attrition%20Prediction.ipynb) 
 
