@@ -19,7 +19,7 @@ Developed a Random Forest Regression model for predicting the crop production in
 
 
 #### Predict Loan Eligibility for Dream Housing Finance company
-Dream Housing Finance company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers.
+Dream Housing Finance company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. [Github Code](https://github.com/JIJALRS/PROJECTS/blob/5d72e215b36c715ec1b80c61682480b4b04346f5/Predict%20Loan%20Eligibility.ipynb)
 
 
 #### Employee Attrition Prediction
