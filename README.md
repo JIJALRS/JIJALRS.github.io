@@ -30,6 +30,7 @@ Created a classification model to predict employee attrition [Github Code](https
 #### Intermediate SQL for Data Scientists [view](https://drive.google.com/file/d/1UWqWwc8e8Dsfqu_1mfZWP5R0fcztXRrh/view?usp=sharing)
 #### SQL Essential Training [view](https://drive.google.com/file/d/1ZXBSMiu4wUdDlawmLrzqHUlQsHVJeUUV/view?usp=sharing)
 #### Excel Statistics Essential[view](https://drive.google.com/file/d/1tqRSjukiuX_XmONmsydhwSyi3XJBMawU/view?usp=sharing)
+#### Excel: PivotTables for Beginners [view](https://drive.google.com/file/d/1lHuTzfAN3mBxNAGN-NCHbho-bYKRMzRK/view?usp=sharing)
 #### Machine Learning with Python: k-Means Clustering [view](https://drive.google.com/file/d/1ULDhr9ZEd-v_iJjWuy7zp0LOH31BOD60/view?usp=sharing)
 #### Machine Learning with Python:Decision Trees [view](https://drive.google.com/file/d/1oXyRFVVJ7CuXfvBmahC9k3g2iFtRyeMu/view?usp=sharing)
 #### Machine Learning with Python:Logistic Regression [view](https://drive.google.com/file/d/1Z9LYb_75pqnyq8fUw04nrDxtM8Y9I6IF/view?usp=sharing)
