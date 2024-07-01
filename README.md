@@ -27,6 +27,7 @@ Created a classification model to predict employee attrition [Github Code](https
 
 ## CERTIFICATES
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
+#### Excel PivotTables: Mastering PivotTables and PivotCharts [view](https://drive.google.com/file/d/18phHpHLjCJ1KftIIS8TOwL80Wp09s1pJ/view?usp=sharing)
 #### Intermediate SQL for Data Scientists [view](https://drive.google.com/file/d/1UWqWwc8e8Dsfqu_1mfZWP5R0fcztXRrh/view?usp=sharing)
 #### SQL Essential Training [view](https://drive.google.com/file/d/1ZXBSMiu4wUdDlawmLrzqHUlQsHVJeUUV/view?usp=sharing)
 #### Excel Statistics Essential[view](https://drive.google.com/file/d/1tqRSjukiuX_XmONmsydhwSyi3XJBMawU/view?usp=sharing)
