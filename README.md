@@ -10,6 +10,14 @@
 * Certified Specialist in Data Science and Analytics from ICT Academy Kerala
 
 ## PROJECTS
+#### CREDIT SCORE CLASSIFICATION
+Developed a predictive model that categorizes customers into three creditworthiness levels: Good, Standard, and Poor. This model will be a valuable tool for
+banks and financial institutions to make informed decisions about loan approvals and risk assessment.
+[Github Code](https://github.com/JIJALRS/NOTE-BOOK/blob/0399dcf6a43d510fe816c467f5bb5958c79d084a/CREDIT%20SCORE%20CLASSIFICATION.ipynb)
+[PREDICTION WEB PAGE](https://credit-prediction-2.onrender.com/)
+[Tableau Visualizations](https://public.tableau.com/views/CREDITSCORE_17238204233130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 #### Agriculture Yield Prediction
 Developed a Random Forest Regression model for predicting the crop production in INDIA based on the crop production from year 1997 to 2015.
 [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/a1a5f4ed284d3f94963afb6ed1bc5f1a9da2f871/Agriculture_Prediction.ipynb)
@@ -27,6 +35,8 @@ Created a classification model to predict employee attrition [Github Code](https
 ## CERTIFICATES
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
+#### Internship on Data Science & Analytics [view](https://drive.google.com/file/d/1A-xY53856fnsfnA1QKAJFi9eSQ6_YPeI/view?usp=sharing)
+#### Excel: Power Query (Get & Transform) [view](https://drive.google.com/file/d/1O95LBzlalyLrtpZRZcM6y0ltcq5AVYSq/view?usp=sharing)
 #### Excel: Power Query for Beginners [view](https://drive.google.com/file/d/1vWnA5cQ5nXXn9T5rEgJHggK5QqVdPvro/view?usp=sharing)
 #### Excel: Lookup Functions in Depth [view](https://drive.google.com/file/d/1KScLqIfOczWbwHC-I_CJvn8lRm69XlSQ/view?usp=sharing)
 #### Excel PivotTables: Mastering PivotTables and PivotCharts [view](https://drive.google.com/file/d/18phHpHLjCJ1KftIIS8TOwL80Wp09s1pJ/view?usp=sharing)
