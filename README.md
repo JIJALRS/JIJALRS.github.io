@@ -36,6 +36,8 @@ Created a classification model to predict employee attrition [Github Code](https
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
 #### Internship on Data Science & Analytics [view](https://drive.google.com/file/d/1A-xY53856fnsfnA1QKAJFi9eSQ6_YPeI/view?usp=sharing)
+#### Python Object-Oriented Programming [view](https://drive.google.com/file/d/1D9m5b9Vu_56TouHeavyzi8kagJkSEb2l/view?usp=sharing)
+#### Intro to Deep Learning -Kaggle [view](https://drive.google.com/file/d/1e2ZaqTEC53uQVUtx0tY4lzVi_HmrGMcl/view?usp=sharing)
 #### Excel: Power Query (Get & Transform) [view](https://drive.google.com/file/d/1O95LBzlalyLrtpZRZcM6y0ltcq5AVYSq/view?usp=sharing)
 #### Excel: Power Query for Beginners [view](https://drive.google.com/file/d/1vWnA5cQ5nXXn9T5rEgJHggK5QqVdPvro/view?usp=sharing)
 #### Excel: Lookup Functions in Depth [view](https://drive.google.com/file/d/1KScLqIfOczWbwHC-I_CJvn8lRm69XlSQ/view?usp=sharing)
