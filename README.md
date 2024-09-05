@@ -32,6 +32,9 @@ Dream Housing Finance company wants to automate the loan eligibility process (re
 #### Employee Attrition Prediction
 Created a classification model to predict employee attrition [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/698615a8bc9971c7260681928c6eadb6c4249af6/Employee%20Attrition%20Prediction.ipynb) 
 
+#### Flood Probability Prediction
+Created a Regression Model for Predicting Flood Probability [Github Code](https://github.com/JIJALRS/PROJECTS/blob/178475f7a391f4a3f13152423b0bb6f06bc4364c/Regression_analysis.ipynb)
+
 ## CERTIFICATES
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
