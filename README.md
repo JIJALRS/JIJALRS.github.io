@@ -35,6 +35,8 @@ Created a classification model to predict employee attrition [Github Code](https
 #### Flood Probability Prediction
 Created a Regression Model for Predicting Flood Probability [Github Code](https://github.com/JIJALRS/PROJECTS/blob/178475f7a391f4a3f13152423b0bb6f06bc4364c/Regression_analysis.ipynb)
 
+#### SQL-PIZZA SALES DATABASE [PDF](https://drive.google.com/file/d/1fE4G7AmJoPCs_ITdhnrR3M6g5KPiv_TG/view?usp=sharing)
+
 ## CERTIFICATES
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
