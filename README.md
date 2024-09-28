@@ -37,6 +37,8 @@ Created a Regression Model for Predicting Flood Probability [Github Code](https:
 
 #### SQL-PIZZA SALES DATABASE [PDF](https://drive.google.com/file/d/1fE4G7AmJoPCs_ITdhnrR3M6g5KPiv_TG/view?usp=sharing)
 
+#### 2024 LOK SABHA ELECTION RESULT ANALYSIS USING MYSQL [PDF](https://github.com/JIJALRS/PROJECTS/blob/3a04374b0dcd8b464d36483adfa449415356f1cf/SQL%20Project.pdf)
+
 ## CERTIFICATES
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
