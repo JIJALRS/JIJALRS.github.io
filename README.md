@@ -39,6 +39,8 @@ Created a Regression Model for Predicting Flood Probability [Github Code](https:
 
 #### 2024 LOK SABHA ELECTION RESULT ANALYSIS USING MYSQL [PDF](https://github.com/JIJALRS/PROJECTS/blob/3a04374b0dcd8b464d36483adfa449415356f1cf/SQL%20Project.pdf)
 
+#### Excel Dashboard on Call Center Data [Video](https://drive.google.com/file/d/1xMlFzs7sQQs4kVDCbGmXJUi3Pf7iIkBP/view?usp=sharing)  [Workbook](https://github.com/JIJALRS/PROJECTS/blob/0322f3c66873f9eac021aac6c6390368af1e7035/Call%20Center%20Dashboard.xlsx)
+
 ## CERTIFICATES
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
 #### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
