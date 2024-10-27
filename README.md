@@ -29,8 +29,10 @@ Developed a Random Forest Regression model for predicting the crop production in
 Dream Housing Finance company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. [Github Code](https://github.com/JIJALRS/PROJECTS/blob/5d72e215b36c715ec1b80c61682480b4b04346f5/Predict%20Loan%20Eligibility.ipynb)
 
 #### Cat vs. Dog Classification
-Created a Cat vs. Dog image classification CNN model using python Tensorflow and Keras.The model takes an input image and predicts whether it is a cat or dog [Notebook](https://www.kaggle.com/code/jijalrs/dog-vs-cat)
+Developed a Cat vs. Dog image classification CNN model using python Tensorflow and Keras.The model takes an input image and predicts whether it is a cat or dog [Notebook](https://www.kaggle.com/code/jijalrs/dog-vs-cat)
 
+#### Brain Tumor Classification
+Developed a CNN model to classify MRI images for detecting the presence of a tumor and identifying its type if present.[Notebook](https://www.kaggle.com/code/jijalrs/brain-tumor-detection)
 #### Employee Attrition Prediction
 Created a classification model to predict employee attrition [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/698615a8bc9971c7260681928c6eadb6c4249af6/Employee%20Attrition%20Prediction.ipynb) 
 
