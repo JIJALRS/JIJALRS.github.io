@@ -33,6 +33,10 @@ Developed a Cat vs. Dog image classification CNN model using python Tensorflow a
 
 #### Brain Tumor Classification
 Developed a CNN model to classify MRI images for detecting the presence of a tumor and identifying its type if present.[Notebook](https://www.kaggle.com/code/jijalrs/brain-tumor-detection)
+
+#### Movie Review Classification
+Developed a classification model for sentiment analysis to classify movie reviews as positive or negative. Utilized Bag of Words (BoW) as a feature extraction method to convert textual data into numerical vectors. Experimented with various machine learning algorithms, with Random Forest and Naive Bayes classifiers yielding strong performance.[Notebook](https://colab.research.google.com/drive/1-ERbcZlw_zGuoaf16VIdcfXSqDAvsJaa?usp=sharing)
+
 #### Employee Attrition Prediction
 Created a classification model to predict employee attrition [Github Code](https://github.com/JIJALRS/REPOSITORY1/blob/698615a8bc9971c7260681928c6eadb6c4249af6/Employee%20Attrition%20Prediction.ipynb) 
 
