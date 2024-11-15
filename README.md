@@ -1,7 +1,7 @@
 ## JIJAL R S
 ### Data Science Enthusiast
 
-#### Technical Skills: Python,R-Programming,SPSS,Tableau,NLP,Computer Vision and SQL
+#### Technical Skills: Python, R-Programming, SPSS, Tableau, NLP, Computer Vision and SQL
 
 ## EDUCATION
 
