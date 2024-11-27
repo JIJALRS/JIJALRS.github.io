@@ -24,6 +24,9 @@ Developed a Random Forest Regression model for predicting the crop production in
 [PREDICTION WEB PAGE](https://agriculture-project.onrender.com)
 [Tableau Visualizations](https://public.tableau.com/views/AgricultureDatasetVisualizations/IndiaMap?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+#### Natural Language Processing with Disaster Tweets
+Developed different NLP models using Bag of Words, TF-IDF, Word Embedding, Fast Text and BERT to Predict which Tweets are about real disasters and which ones are not. [Notebook](https://colab.research.google.com/drive/1VhZE_zKF4lGh2MInTK7YKwmhOf6RIW3I?usp=sharing)  
+
 
 #### Predict Loan Eligibility for Dream Housing Finance company
 Dream Housing Finance company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. [Github Code](https://github.com/JIJALRS/PROJECTS/blob/5d72e215b36c715ec1b80c61682480b4b04346f5/Predict%20Loan%20Eligibility.ipynb)
@@ -43,7 +46,7 @@ Created a classification model to predict employee attrition [Github Code](https
 #### Flood Probability Prediction
 Created a Regression Model for Predicting Flood Probability [Github Code](https://github.com/JIJALRS/PROJECTS/blob/178475f7a391f4a3f13152423b0bb6f06bc4364c/Regression_analysis.ipynb)
 
-#### SQL-PIZZA SALES DATABASE [PDF](https://drive.google.com/file/d/1fE4G7AmJoPCs_ITdhnrR3M6g5KPiv_TG/view?usp=sharing)
+#### SQL-PIZZA SALES DATABASE ANALYSIS [PDF](https://drive.google.com/file/d/1fE4G7AmJoPCs_ITdhnrR3M6g5KPiv_TG/view?usp=sharing)
 
 #### 2024 LOK SABHA ELECTION RESULT ANALYSIS USING MYSQL [PDF](https://github.com/JIJALRS/PROJECTS/blob/3a04374b0dcd8b464d36483adfa449415356f1cf/SQL%20Project.pdf)
 
