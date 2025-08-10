@@ -4,7 +4,7 @@
 #### Technical Skills: Python, R-Programming, SPSS, Tableau, NLP, Computer Vision and SQL
 
 ## EDUCATION
-
+* GATE Data Science and Artificial Intelligence
 * M.Sc STATISTICS from Central University of Pondicherry
 * B.Sc STATISTICS from Christian College Kattakada, Thiruvananthapuram
 * Certified Specialist in Data Science and Analytics from ICT Academy Kerala
@@ -54,7 +54,7 @@ Created a Regression Model for Predicting Flood Probability [Github Code](https:
 
 ## CERTIFICATES
 #### Certified Specialist in Data Science and Analytics [view](https://drive.google.com/file/d/1GGLA-AyEDXSXSjW71D-mz_hdUe0ycmEu/view)
-#### GATE SCORE CARD [view](https://drive.google.com/file/d/1uxT3Qv82_5g_a3coh73N65d-FwgspZJl/view?usp=sharing)
+#### GATE SCORE CARD [view](https://drive.google.com/file/d/1TrDQQ-WDaWMp2JEeWTWnu5Q_OBiGrq-_/view?usp=sharing)
 #### Internship on Data Science & Analytics [view](https://drive.google.com/file/d/1A-xY53856fnsfnA1QKAJFi9eSQ6_YPeI/view?usp=sharing)
 #### Computer Vision -Kaggle [view](https://drive.google.com/file/d/1Z0hznSGj35OdKQnea-gqEOjLvydWCS1W/view?usp=sharing)
 #### Python Object-Oriented Programming [view](https://drive.google.com/file/d/1D9m5b9Vu_56TouHeavyzi8kagJkSEb2l/view?usp=sharing)
